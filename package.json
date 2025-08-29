@@ -1,0 +1,23 @@
+{
+  "name": "primeira-pwa-app",
+  "version": "1.0.0",
+  "description": "Essa é a primeira pwa, usando vanilla JS",
+  "homepage": "https://github.com/hortthenciacastro/primeira-pwa-app#readme",
+  "bugs": {
+    "url": "https://github.com/hortthenciacastro/primeira-pwa-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hortthenciacastro/primeira-pwa-app.git"
+  },
+  "license": "ISC",
+  "author": "hortthencia castro",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
